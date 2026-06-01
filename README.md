@@ -15,6 +15,7 @@ DiMaTE is a Malay-to-English machine translation project focused on Malaysian re
 
 - `nlp_mt5_level4.zip`: Contains the independent mT5 Level 4 model files and related setup instructions.
 - `nlp_malaybert_baseline.zip`: Contains the independent MalayBERT baseline model files and related setup instructions.
+- `nlp_malaybert_level2.zip`: Contains the independent MalayBERT Level 2 bridge model files and related setup instructions.
 - `nlp_malaybert_level3.zip`: Contains the independent MalayBERT Level 3 model files and related setup instructions.
 - `NLP Project Presentation.pdf`: Contains the project presentation slides for Team 21.
 - `Team21_ Perogeremming.pdf`: Contains the final project report for Team 21.
