@@ -1,5 +1,9 @@
 # Perogeremming (Team 21)
 
+## Project Overview
+
+DiMaTE is a Malay-to-English machine translation project focused on Malaysian regional dialects and slang, using the DiMaTE-MY dataset across Johor, Kedah, Kelantan, Perak, and Terengganu to compare direct translation models with standard-Malay bridge methods using MalayBERT and mT5.
+
 ## Team Members
 
 - Ahmad Fahreen Qusyairi bin Md Yusof
